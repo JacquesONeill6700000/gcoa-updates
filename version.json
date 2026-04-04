@@ -2,5 +2,5 @@
       "version": "1.0.2",
       "url_linux": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.1/gcoa_1.0.1_amd64.deb",
       "url_windows": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.1/gcoa.exe",
-      "notes": "Correction système de mise à jour, service API au démarrage"
+      "notes": "Installation automatique des mises à jour, relance auto après update"
 }
