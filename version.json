@@ -2,5 +2,5 @@
     "version": "1.0.7",
     "url_linux": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.7/gcoa_1.0.7_amd64.deb",
     "url_windows": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.7/gcoa.exe",
-    "notes": "Add v1.0.6 - add Logo on loading Screen"
+    "notes": "Fix logo assets path - Add PPS-A Bases, temporary PPSA admin, carte PO refresh"
 }
