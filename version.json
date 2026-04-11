@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8",
-    "url_linux": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.8/gcoa_1.0.8_amd64.deb",
-    "url_windows": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.8/gcoa.exe",
-    "notes": "Fix PDF View on Windows - Add Flight show on live map"
+    "version": "1.0.9",
+    "url_linux": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.9/gcoa_1.0.9_amd64.deb",
+    "url_windows": "https://github.com/JacquesONeill6700000/gcoa-updates/releases/download/v1.0.9/gcoa.exe",
+    "notes": "Fix PDF View on Windows - Fix Notams view on Accueil and texts on administration and member (ops panels) - Fix Notams Add system for admin - Add auto-refresh for notams"
 }
